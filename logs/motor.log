@@ -1,0 +1,35 @@
+[2026-09-30 17:59:01] NORMAL: Motor operating normally.
+[2026-09-30 17:59:01] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:20:30] NORMAL: Motor operating normally.
+[2026-10-01 12:20:30] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:34:39] NORMAL: Motor operating normally.
+[2026-10-01 12:34:39] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:39:29] NORMAL: Motor operating normally.
+[2026-10-01 12:39:30] NORMAL: Motor operating normally.
+[2026-10-01 12:39:31] NORMAL: Motor operating normally.
+[2026-10-01 12:39:32] NORMAL: Motor operating normally.
+[2026-10-01 12:39:33] NORMAL: Motor operating normally.
+[2026-10-01 12:39:34] NORMAL: Motor operating normally.
+[2026-10-01 12:39:35] NORMAL: Motor operating normally.
+[2026-10-01 12:40:47] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:48] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:49] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:50] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:51] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:52] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:53] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:54] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:55] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:56] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:40:57] CRITICAL: OVERHEAT detected.
+[2026-10-01 12:42:23] CRITICAL: HIGH VIBRATION detected.
+[2026-10-01 12:42:24] CRITICAL: HIGH VIBRATION detected.
+[2026-10-01 12:42:25] CRITICAL: HIGH VIBRATION detected.
+[2026-10-01 12:42:32] CRITICAL: Motor stall detected.
+[2026-10-01 12:42:33] CRITICAL: Motor stall detected.
+[2026-10-01 12:43:07] CRITICAL: Sensor failure detected.
+[2026-10-01 12:43:08] CRITICAL: Sensor failure detected.
+[2026-10-01 12:43:09] CRITICAL: Sensor failure detected.
+[2026-10-01 12:43:58] CRITICAL: OVER CURRENT detected.
+[2026-10-01 12:43:59] CRITICAL: OVER CURRENT detected.
+[2026-10-01 12:44:00] CRITICAL: OVER CURRENT detected.
